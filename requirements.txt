@@ -14,11 +14,13 @@ certifi==2021.10.8
 cffi==1.15.0
 charset-normalizer==2.0.12
 click==8.0.4
+cycler==0.11.0
 debugpy==1.5.1
 decorator==5.1.1
 defusedxml==0.7.1
 entrypoints==0.4
 flake8==4.0.1
+fonttools==4.29.1
 gitdb==4.0.9
 GitPython==3.1.27
 idna==3.3
@@ -37,7 +39,9 @@ jupyter-console==6.4.0
 jupyter-core==4.9.2
 jupyterlab-pygments==0.1.2
 jupyterlab-widgets==1.0.2
+kiwisolver==1.3.2
 MarkupSafe==2.1.0
+matplotlib==3.5.1
 matplotlib-inline==0.1.3
 mccabe==0.6.1
 mistune==0.8.4
@@ -77,6 +81,8 @@ pyzmq==22.3.0
 qtconsole==5.2.2
 QtPy==2.0.1
 requests==2.27.1
+scipy==1.7.3
+seaborn==0.11.2
 semver==2.13.0
 Send2Trash==1.8.0
 six==1.16.0
